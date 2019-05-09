@@ -18,10 +18,10 @@ Run the setup.ipynb on Jupyter notebook.
 The input can be given as *Input.pdf* (a sample is given, can be overwritten). A set of generalized questions are generated from this file. Questions from multiple such files can be combined. The test file for which summarization in the form of question answers is needed is given as *Test.pdf*. Answers for the generlized questions are generated from this file and given as a form of summarization.
 
 ## Authors
-* Madhav Sankar K [madhavsankar] (https://github.com/madhavsankar)
+* Madhav Sankar K [madhavsankar](https://github.com/madhavsankar)
 * Hariharan J 
 * Vishal Veda Vyas P 
 
 ## Acknowledgments
-Thanks to Neural Networks and Deep Learning lab, MIPT for the inspiration for the [Question Generation module] (https://github.com/deepmipt/question_generation) and [Answer Extraction module] (Answer Extraction module).
+Thanks to Neural Networks and Deep Learning lab, MIPT for the inspiration for the [Question Generation module](https://github.com/deepmipt/question_generation) and [Answer Extraction module](https://github.com/deepmipt/DeepPavlov).
 
