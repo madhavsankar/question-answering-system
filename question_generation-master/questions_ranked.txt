@@ -1,0 +1,9 @@
+what is the average profit of the company ? ~~ MONEY
+when was the company founded ? ~~ DATE
+who was the second ceo of the company ? ~~ PERSON
+who founded the company ? ~~ PERSON
+what was the third ceo of the company ? ~~ O
+what is the name of the company ? ~~ ORGANIZATION
+what was the net revenue of the company ? ~~ MONEY
+what was the third ceo of the company ? ~~ O
+what is the name of the company ? ~~ ORGANIZATION

@@ -1,0 +1,13 @@
+when was the company founded ?	april 1 , 1979	-0.95197695493698
+who was the second ceo of the company ?	gil amelio	-1.587094783783
+who founded the company ?	steve jobs	-3.1549923419952
+what was the third ceo of the company ?	third	-4.7447009086609
+what is the name of the company ?	apple computer , inc.	-4.7784662246704
+what is the average profit of the company ?	$ 800 billion	-4.9303951263428
+what was the original ceo of the company ?	second	-5.1591777801514
+what computer was the ipod 's personal computer player ?	mac	-6.3388957977295
+what microsoft was the market share of windows on intel ?	microsoft	-7.0734705924988
+who was the market share of microsoft ?	apple	-7.1252355575562
+who is a populist technology company ?	apple	-7.7810769081116
+what apple 's software includes what software touch ?	apple	-10.731921195984
+what company did apple lose to the imac 8 of microsoft ?	intel	-10.980400085449
