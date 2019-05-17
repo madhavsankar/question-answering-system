@@ -19,7 +19,7 @@ The input can be given as *Input.pdf* (a sample is given, can be overwritten). A
 
 ## Authors
 * Madhav Sankar K [madhavsankar](https://github.com/madhavsankar)
-* Hariharan J 
+* Hariharan J [hariharan-jayakumar](https://github.com/hariharan-jayakumar)
 * Vishal Veda Vyas P 
 
 ## Acknowledgments
