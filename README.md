@@ -20,7 +20,7 @@ The input can be given as *Input.pdf* (a sample is given, can be overwritten). A
 ## Authors
 * Madhav Sankar K [madhavsankar](https://github.com/madhavsankar)
 * Hariharan J [hariharan-jayakumar](https://github.com/hariharan-jayakumar)
-* Vishal Veda Vyas P 
+* Vishal Veda Vyas P [VishalVedvyas](https://github.com/VishalVedvyas)
 
 ## Acknowledgments
 Thanks to Neural Networks and Deep Learning lab, MIPT for the inspiration for the [Question Generation module](https://github.com/deepmipt/question_generation) and [Answer Extraction module](https://github.com/deepmipt/DeepPavlov).
