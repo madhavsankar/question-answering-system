@@ -1,8 +1,5 @@
 # Motivation
 
-Organizations, governments and many entities deal with an expanse of voluminous financial documents and this necessitates a need for a financial expert system which, given a financial document, extracts finance-related questions and answers from it. This expert system helps us to adequately summarize the document in the form of a question-answer report. 
-
-# Description
 This project aims to automate the process of report generation by making use of two modules - question generation from text and answer extraction from text. Firstly, question extraction modules are used to generate a set of generic questions from a training corpus of financial documents. This generated questions are fed to the test document and answer extraction modules extract the answers for these questions. The question-answer pairs are compiled in the form of a report. We also use the novel idea of using training documents to obtain a set of questions and use the knowledge gained during this for answer extraction. We also generate a generalized set of financial specific questions that can be commonly used across any similar test financial data. 
 
 # Environment
