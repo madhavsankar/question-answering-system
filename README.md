@@ -23,7 +23,7 @@ The input can be given as *Input.pdf* (a sample is given, can be overwritten). A
 * Vishal Veda Vyas P 
 
 ## Acknowledgments
-Thanks to Dr Rajeswari Sridhar, Head Of Department, CSE, NIT Trichy for using her expertise in this domain to provide us with unparalleled technical guidance and moral support to complete this project.
+Thanks to Dr Rajeswari Sridhar, Head Of Department, CSE, NIT Trichy for her guidance.
 
 Thanks to Neural Networks and Deep Learning lab, MIPT for the inspiration for the [Question Generation module](https://github.com/deepmipt/question_generation) and [Answer Extraction module](https://github.com/deepmipt/DeepPavlov).
 
